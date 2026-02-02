@@ -1,3 +1,10 @@
+ Restaurant_project Link:
+ https://student.heraldcollege.edu.np/~np03cs4a240378/public/index.php
+
+Github link:
+https://github.com/Sirjanstha/Restaurant_project
+
+
 Setup guide
 
 Login as admin
